@@ -1,0 +1,3 @@
+[submodule "backend/django"]
+	path = backend/django
+	url = https://github.com/Crosline/mini-ats-tracker-py.git
